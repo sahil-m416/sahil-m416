@@ -12,9 +12,7 @@ Learning how to code better.
 
 ## 
 
-<a href="https://github.com/sahil-m416/sahil-m416 %22%3E
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-m416&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-m416&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 
 <!--
 pranay101/pranay101 is a  special  repository because its README.md (this file) appears on your GitHub profile.
