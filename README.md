@@ -56,16 +56,6 @@ const sahil = {
 
 ---
 
-### 🏆 &nbsp; `~/trophies`
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahil-m416&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>"Code is poetry written for machines, read by humans."</i>
 </p>
