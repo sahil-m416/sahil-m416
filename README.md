@@ -43,16 +43,7 @@ const sahil = {
 ### 📊 &nbsp; `~/stats`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahil-m416&show_icons=true&count_private=true&hide_border=true&title_color=2bbc8a&icon_color=2bbc8a&text_color=c9cacc&bg_color=0d1117&include_all_commits=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-streak-stats.demolab.com?user=sahil-m416&hide_border=true&background=0d1117&stroke=2bbc8a&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a&sideLabels=c9cacc&dates=c9cacc&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-m416&layout=compact&hide_border=true&title_color=2bbc8a&text_color=c9cacc&bg_color=0d1117&langs_count=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-m416&bg_color=0d1117&color=2bbc8a&line=2bbc8a&point=ffffff&area=true&hide_border=true&custom_title=Commit%20Activity" />
+  <img src="./metrics.svg" alt="Achievements, languages and activity" />
 </p>
 
 ---
