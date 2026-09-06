@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/sahil-m416">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=2BBC8A&center=true&vCenter=true&multiline=true&width=720&height=110&lines=%24+whoami;sahil-m416+%E2%80%94+software+engineer+%40+pictory;%24+cat+%2Fdev%2Fbrain;building+things+that+ship.+breaking+things+that+don't." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=2BBC8A&center=true&vCenter=true&multiline=true&width=720&height=160&lines=%24+whoami;sahil-m416+%E2%80%94+software+engineer+%40+pictory;%24+cat+%2Fdev%2Fbrain;building+things+that+ship.+breaking+things+that+don't." alt="typing" />
   </a>
 </p>
 
