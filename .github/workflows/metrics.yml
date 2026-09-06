@@ -37,3 +37,7 @@ jobs:
           template: classic
           base: activity
           config_timezone: Asia/Kolkata
+          config_order: achievements, languages, base.activity
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_languages: yes
