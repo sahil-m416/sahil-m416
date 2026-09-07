@@ -16,7 +16,8 @@ jobs:
         with:
           filename: isocalendar.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_SECRET }}
+          committer_message: "refresh profile metrics [skip ci]"
           user: sahil-m416
           template: classic
           base: ""
@@ -32,7 +33,8 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_SECRET }}
+          committer_message: "refresh profile metrics [skip ci]"
           user: sahil-m416
           template: classic
           base: activity
