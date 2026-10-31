@@ -54,6 +54,13 @@ const sahil = {
   <img src="./isocalendar.svg" alt="Isometric contribution calendar" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil-m416/sahil-m416/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sahil-m416/sahil-m416/output/snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
